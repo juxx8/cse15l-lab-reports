@@ -17,7 +17,7 @@
 
 [GSW Twitter](https://twitter.com/warriors)
 
-![Image](http://www.google.com.au/images/nav_logo7.png)
+![Google Image](http://www.google.com.au/images/nav_logo7.png)
 
 `inline` code testing.
 
